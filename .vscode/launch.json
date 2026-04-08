@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceRoot}/build/game_linux_debug.out",
+      "args": [],
+      "cwd": "${workspaceRoot}",
+      "preLaunchTask": "Build"
+    }
+  ]
+}
